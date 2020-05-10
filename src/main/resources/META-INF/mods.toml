@@ -14,7 +14,7 @@ loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft versio
 # The modid of the mod
 modId="elementsofharmony" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="${file.jarVersion}" #mandatory
+version="1.0.0" #mandatory
  # A display name for the mod
 displayName="Elements Of Harmony" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
@@ -24,15 +24,18 @@ displayName="Elements Of Harmony" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="e_logo.png" #optional
 # A text field displayed in the mod UI
-credits="Thanks to Hasbro Studios, MoJang AB and Forge developers." #optional
+credits="Hasbro Studios, XUOGROUP-Twily" #optional
 # A text field displayed in the mod UI
-authors="XUOGROUP-Twily and other XUOGROUP supporters." #optional
+authors="XUOGROUP" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 As we all known, there are six elements which make the whole world full of harmony.
+
 They are: Loyalty, Laughter, Generosity, Honesty, Kindness, and Magic.
+
 In Minecraft World, there are also these elements.
 Go, go now, and find them!
+
 
 This idea comes from My Little Pony(R), which copyright belongs to Hasbro Studios.
 For non-commercial use only!
