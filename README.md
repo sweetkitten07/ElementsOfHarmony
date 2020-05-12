@@ -1,4 +1,4 @@
-# Elements Of Harmony
+# Elements of Harmony
 This is a **Minecraft MOD**.  
 With adding six elements to Minecraft, you can use them to build **more powerful** tools or weapons.  
 These elements can be find in the form of **minerals**, **smelt** them to get other form of these elements.  
