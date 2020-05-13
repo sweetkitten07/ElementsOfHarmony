@@ -16,7 +16,7 @@ This MOD is **still developing** and is compatible with **Minecraft 1.15.2** and
 
 If you are looking for another MOD related with **My Little Pony(R)**, try these two:
 - [Mine Little Pony](https://github.com/MineLittlePony/MineLittlePony) by [Mine Little Pony](https://github.com/MineLittlePony), a **Fabric MOD**. (I tried it, really **Superduper AWESOME**!)
-- [Love and Tolerance](https://github.com/Love-and-Tolerance/Love-and-Tolerance) by [Love and Tolerance](https://github.com/Love-and-Tolerance), a **material package**. (Also pretty)
+- [Love and Tolerance](https://github.com/Love-and-Tolerance/Love-and-Tolerance) by [Love and Tolerance](https://github.com/Love-and-Tolerance), a **material package**. (**Also pretty!**)
 
 At the beginning, we had considered to use **Fabric** to be compatible with **Mine Little Pony**, but, after we read the documentation, we decided to give up, stay foolish, and just use **Forge**.  
 
@@ -47,7 +47,7 @@ Developers:
 
 ---
 That's the end, thank you for reading this document!  
-You are welcome to submit an **Issue** or a **Pull Request** for this repo on **GitHub**.  
+You are welcome to submit an **Issue** or **Pull Request** for this repo on **GitHub**.  
 
 ---
 *My Little Pony(R)* is the (registered) trademark of *Hasbro Studios*.  
