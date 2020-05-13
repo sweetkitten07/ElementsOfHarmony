@@ -1,4 +1,4 @@
-package elementsofharmony;
+package top.xuogroup.mcmods.elementsofharmony.test;
 
 import net.minecraft.item.Item;
 
