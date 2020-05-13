@@ -43,7 +43,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---
 Developers:  
-- [Andy K Sparklight](https://github.com/Andy-K-Sparklight), known as *Andy* in [**XUOGROUP**](https://www.xuogroup.top).  
+- [Andy K Sparklight](https://github.com/Andy-K-Sparklight) known as *Andy* in [**XUOGROUP**](https://www.xuogroup.top).  
 
 ---
 That's the end, thank you for reading this document!  

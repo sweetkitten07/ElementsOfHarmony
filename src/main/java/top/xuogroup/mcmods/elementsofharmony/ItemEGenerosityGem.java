@@ -2,8 +2,8 @@ package top.xuogroup.mcmods.elementsofharmony;
 
 import net.minecraft.item.Item;
 
-public class ItemEMagicGem extends Item {
-    public ItemEMagicGem(){
+public class ItemEGenerosityGem extends Item {
+    public ItemEGenerosityGem(){
         super(new Properties().group(ModGroup.elementsofharmonyGroup));
     }
 }

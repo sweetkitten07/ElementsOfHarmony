@@ -1,6 +1,9 @@
 {
-  "item.elementsofharmony.item_e_magic_gem": "宝石-魔法",
   "item.elementsofharmony.item_e_loyalty_gem": "宝石-忠诚",
   "item.elementsofharmony.item_e_laughter_gem": "宝石-欢笑",
+  "item.elementsofharmony.item_e_generosity_gem": "宝石-慷慨",
+  "item.elementsofharmony.item_e_honesty_gem": "宝石-诚实",
+  "item.elementsofharmony.item_e_kindness_gem": "宝石-善良",
+  "item.elementsofharmony.item_e_magic_gem": "宝石-魔法",
   "itemGroup.elementsofharmony_group": "和谐之元"
 }
