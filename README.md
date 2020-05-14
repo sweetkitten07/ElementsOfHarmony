@@ -5,7 +5,8 @@ These elements can be find in the form of **minerals**, **smelt** them to get ot
 There can **never** be too many elements, if you own enough of them, you can even use them to **transcend life and death!**  
 These elements can hurt mobs **effectively**, hold one on your left hand to disperse mobs!  
 At last, find **The Tree of Harmony**, to learn about why, you, Steve or Alex, are here, in this world.  
-Is this the end? Or **just a beginning**?
+Is this the end? Or **just a beginning**?  
+![Elements Of Harmony](./eoh.png)
 
 ---
 Okay, and that's the whole absurd story. Anyway, we just want to develop a mod related with **My Little Pony(R)**. (For the author, me, is a **brony**, obviously)  
