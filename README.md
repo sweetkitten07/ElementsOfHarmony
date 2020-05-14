@@ -1,4 +1,5 @@
 # Elements of Harmony
+![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
 This is a **Minecraft MOD**.  
 With adding six elements to Minecraft, you can use them to build **more powerful** tools or weapons.  
 These elements can be find in the form of **minerals**, **smelt** them to get other form of these elements.  
