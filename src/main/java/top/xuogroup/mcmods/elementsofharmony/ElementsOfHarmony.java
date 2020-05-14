@@ -9,5 +9,6 @@ public class ElementsOfHarmony {
 
     public ElementsOfHarmony() {
         ItemRegistry.ITEMS.register(FMLJavaModLoadingContext.get().getModEventBus());
+        BlockRegistry.BLOCKS.register(FMLJavaModLoadingContext.get().getModEventBus());
     }
 }

@@ -5,5 +5,13 @@
   "item.elementsofharmony.item_e_honesty_gem": "寶石-誠實",
   "item.elementsofharmony.item_e_kindness_gem": "寶石-善良",
   "item.elementsofharmony.item_e_magic_gem": "寶石-魔法",
+
+  "block.elementsofharmony.block_e_loyalty_mine": "和諧礦石-忠誠",
+  "block.elementsofharmony.block_e_laughter_mine": "和諧礦石-歡笑",
+  "block.elementsofharmony.block_e_generosity_mine": "和諧礦石-慷慨",
+  "block.elementsofharmony.block_e_honesty_mine": "和諧礦石-誠實",
+  "block.elementsofharmony.block_e_kindness_mine": "和諧礦石-善良",
+  "block.elementsofharmony.block_e_magic_mine": "和諧礦石-魔法",
+
   "itemGroup.elementsofharmony_group": "和諧之元"
 }

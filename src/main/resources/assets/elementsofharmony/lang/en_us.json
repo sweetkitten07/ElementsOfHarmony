@@ -1,9 +1,17 @@
 {
-  "item.elementsofharmony.item_e_loyalty_gem": "Gem of Loyalty",
-  "item.elementsofharmony.item_e_laughter_gem": "Gem of Laughter",
-  "item.elementsofharmony.item_e_generosity_gem": "Gem of Generosity",
-  "item.elementsofharmony.item_e_honesty_gem": "Gem of Honesty",
-  "item.elementsofharmony.item_e_kindness_gem": "Gem of Kindness",
-  "item.elementsofharmony.item_e_magic_gem": "Gem of Magic",
+  "item.elementsofharmony.item_e_loyalty_gem": "Harmony Gem of Loyalty",
+  "item.elementsofharmony.item_e_laughter_gem": "Harmony Gem of Laughter",
+  "item.elementsofharmony.item_e_generosity_gem": "Harmony Gem of Generosity",
+  "item.elementsofharmony.item_e_honesty_gem": "Harmony Gem of Honesty",
+  "item.elementsofharmony.item_e_kindness_gem": "Harmony Gem of Kindness",
+  "item.elementsofharmony.item_e_magic_gem": "Harmony Gem of Magic",
+
+  "block.elementsofharmony.block_e_loyalty_mine": "Harmony Mine of Loyalty",
+  "block.elementsofharmony.block_e_laughter_mine": "Harmony Mine of Laughter",
+  "block.elementsofharmony.block_e_generosity_mine": "Harmony Mine of Generosity",
+  "block.elementsofharmony.block_e_honesty_mine": "Harmony Mine of Honesty",
+  "block.elementsofharmony.block_e_kindness_mine": "Harmony Mine of Kindness",
+  "block.elementsofharmony.block_e_magic_mine": "Harmony Mine of Magic",
+
   "itemGroup.elementsofharmony_group": "Elements of Harmony"
 }
