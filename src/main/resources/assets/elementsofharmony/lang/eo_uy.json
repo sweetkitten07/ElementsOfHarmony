@@ -1,0 +1,17 @@
+{
+  "item.elementsofharmony.item_e_loyalty_gem": "[Malĝentila]Harmonia Gemo-Fideleco",
+  "item.elementsofharmony.item_e_laughter_gem": "[Malĝentila]Harmonia Gemo-Rido",
+  "item.elementsofharmony.item_e_generosity_gem": "[Malĝentila]Harmonia Gemo-Malavara",
+  "item.elementsofharmony.item_e_honesty_gem": "[Malĝentila]Harmonia Gemo-Honesta",
+  "item.elementsofharmony.item_e_kindness_gem": "[Malĝentila]Harmonia Gemo-Boneco",
+  "item.elementsofharmony.item_e_magic_gem": "[Malĝentila]Harmonia Gemo-Magio",
+
+  "block.elementsofharmony.block_e_loyalty_mine": "Harmonia Erco-Fideleco",
+  "block.elementsofharmony.block_e_laughter_mine": "Harmonia Erco-Rido",
+  "block.elementsofharmony.block_e_generosity_mine": "Harmonia Erco-Malavara",
+  "block.elementsofharmony.block_e_honesty_mine": "Harmonia Erco-Honesta",
+  "block.elementsofharmony.block_e_kindness_mine": "Harmonia Erco-Boneco",
+  "block.elementsofharmony.block_e_magic_mine": "Harmonia Erco-Magio",
+
+  "itemGroup.elementsofharmony_group": "Harmonia Yuan"
+}
