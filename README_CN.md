@@ -3,6 +3,7 @@
 ![API接口](https://img.shields.io/badge/API接口-Forge模组加载器-orange.svg)
 ![语言](https://img.shields.io/badge/开发语言-Java-0bbbff.svg)
 [![Other Languages](https://img.shields.io/badge/This%20Document%20Provides-English%20Version-blue.svg)](README.md)  
+*（注：中国大陆用户可能访问较慢，并可能无法加载图片。若不能和谐上网，请考虑更改**Hosts**文件。此外，访问此项目的中国站点将可以更高速度读取Wiki并下载发行版及源代码，并且，中国站有更多中文文档内容。）*  
 这是一个**我的世界模组**。  
 向我的世界加入6个元素之后，你就可以用它们制造**更强大的**工具或武器。  
 它们可以在世界中以**矿石**的形态找到，**熔炼**矿石以获得其它形态。  
