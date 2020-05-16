@@ -8,7 +8,7 @@ With adding six elements to Minecraft, you can use them to build **more powerful
 These elements can be find in the form of **minerals**, **smelt** them to get other form of these elements.  
 There can **never** be too many elements, if you own enough of them, you can even use them to **transcend life and death!**  
 These elements can hurt mobs **effectively**. You will never fear of mobs after today!  
-At last, find **The Tree of Harmony**, to learn about why, you, Steve or Alex, are here, in this world.  
+At last, find **The Tree of Harmony**, to learn about why, you, Steve or Alex, are here, in this world...  
 Is this the end? Or **just a beginning**?  
 ![Elements Of Harmony](./eoh.png)
 
