@@ -1,7 +1,7 @@
 # 和谐之元
 ![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
-![API](https://img.shields.io/badge/API-Forge%20MOD%20Loader-orange.svg)
-![Language](https://img.shields.io/badge/Lauguage-Java-0bbbff.svg)
+![API接口](https://img.shields.io/badge/API接口-Forge模组加载器-orange.svg)
+![语言](https://img.shields.io/badge/开发语言-Java-0bbbff.svg)
 [![Other Languages](https://img.shields.io/badge/This%20Document%20Provides-English-blue.svg)](README.md)  
 这是一个**我的世界模组**。  
 向我的世界加入6个元素之后，你就可以用它们制造**更强大的**工具或武器。  
