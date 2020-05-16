@@ -1,12 +1,13 @@
 # Elements of Harmony
 ![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![API](https://img.shields.io/badge/API-Forge%20MOD%20Loader-orange.svg)
-![Lauguage](https://img.shields.io/badge/Lauguage-Java-0bbbff.svg)  
+![Language](https://img.shields.io/badge/Lauguage-Java-0bbbff.svg)
+[![其他语言](https://img.shields.io/badge/此文档提供-简体中文-red.svg)](README_CN.md)  
 This is a **Minecraft MOD**.  
 With adding six elements to Minecraft, you can use them to build **more powerful** tools or weapons.  
 These elements can be find in the form of **minerals**, **smelt** them to get other form of these elements.  
 There can **never** be too many elements, if you own enough of them, you can even use them to **transcend life and death!**  
-These elements can hurt mobs **effectively**, hold one on your left hand to disperse mobs!  
+These elements can hurt mobs **effectively**. You will never fear of mobs after today!  
 At last, find **The Tree of Harmony**, to learn about why, you, Steve or Alex, are here, in this world.  
 Is this the end? Or **just a beginning**?  
 ![Elements Of Harmony](./eoh.png)
@@ -14,9 +15,7 @@ Is this the end? Or **just a beginning**?
 ---
 Okay, and that's the whole absurd story. Anyway, we just want to develop a mod related with **My Little Pony(R)**. (For the author, me, is a **brony**, obviously)  
 
-This MOD is **still developing** and is compatible with **Minecraft 1.15.2** and **Forge 31.1.0** when developing.  
-
-**DO NOT** star or fork this repo on **GitHub**, cause this will put a lot of pressure on us(I'm serious).  
+This MOD is **still developing** and is compatible with **Minecraft 1.15.2 (Java Edition)** and **Forge 31.1.0** when developing.  
 
 If you are looking for another MOD related with **My Little Pony(R)**, try these two:
 - [Mine Little Pony](https://github.com/MineLittlePony/MineLittlePony) by [Mine Little Pony](https://github.com/MineLittlePony), a **Fabric MOD**. (I tried it, really **Superduper AWESOME**!)
@@ -26,7 +25,7 @@ At the beginning, we had considered to use **Fabric** to be compatible with **Mi
 
 ---
 Runtime environment:  
-- Minecraft 1.15.2, with Forge 31.1.0.
+- Minecraft 1.15.2 (Java Edition), with Forge 31.1.0.
 
 ---
 License:  
@@ -55,5 +54,3 @@ You are welcome to submit an **Issue** or **Pull Request** against this repo on 
 
 ---
 *My Little Pony(R)* is the (registered) trademark of *Hasbro Studios*.  
-
-
