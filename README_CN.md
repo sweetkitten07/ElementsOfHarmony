@@ -13,11 +13,11 @@
 ![Elements Of Harmony](./eoh.png)
 
 ---
-好，这个故事很荒唐，打住，到此结束。我们只是想制作一个有关**My Little Pony(R)**的模组。  
+好，这个故事很荒唐，打住，到此结束。我们只是想制作一个有关 **My Little Pony(R)** 的模组。  
 
 此模组正在开发，和**我的世界（Java版）1.15.2**以及**Forge 31.1.0**兼容。  
 
-如果您在寻找以及开发完成且有关 **My Little Pony(R)**的模组，可以看看以下两个项目：  
+如果您在寻找以及开发完成且有关 **My Little Pony(R)** 的模组，可以看看以下两个项目：  
 - [Mine Little Pony](https://github.com/MineLittlePony/MineLittlePony) ，由 [Mine Little Pony](https://github.com/MineLittlePony) 开发的一个**Fabric模组**。（我试过了，**超级**酷！）
 - [Love and Tolerance](https://github.com/Love-and-Tolerance/Love-and-Tolerance) ，由 [Love and Tolerance](https://github.com/Love-and-Tolerance) 制作的材质包。（非常**漂亮**！）
 
@@ -28,7 +28,7 @@
 - 我的世界1.15.2（Java版），且已安装Forge31.1.0。
 
 ---
-开源许可证：
+开源许可证：  
 （翻译后的英文版GNU通用公共许可证可能失去法律效力，请**务必阅读**仓库中内置的**英文原版**LICENSE文件以了解相关权利和义务！）  
 此模组和一份GNU通用公共许可证（版本3.0）共同发行。  
 
