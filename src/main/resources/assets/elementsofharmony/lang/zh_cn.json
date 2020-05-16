@@ -13,5 +13,12 @@
   "block.elementsofharmony.block_e_kindness_mine": "和谐矿石-善良",
   "block.elementsofharmony.block_e_magic_mine": "和谐矿石-魔法",
 
+  "item.elementsofharmony.item_e_loyalty_ingot": "和谐之锭-忠诚",
+  "item.elementsofharmony.item_e_laughter_ingot": "和谐之锭-欢笑",
+  "item.elementsofharmony.item_e_generosity_ingot": "和谐之锭-慷慨",
+  "item.elementsofharmony.item_e_honesty_ingot": "和谐之锭-诚实",
+  "item.elementsofharmony.item_e_kindness_ingot": "和谐之锭-善良",
+  "item.elementsofharmony.item_e_magic_ingot": "和谐之锭-魔法",
+
   "itemGroup.elementsofharmony_group": "和谐之元"
 }

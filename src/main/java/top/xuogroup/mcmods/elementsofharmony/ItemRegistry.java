@@ -32,5 +32,14 @@ public class ItemRegistry {
             () -> new BlockItem(BlockRegistry.blockEKindnessMine.get(), new Item.Properties().group(ModGroup.elementsofharmonyGroup)));
     public static RegistryObject<Item> blockEMagicMine = ITEMS.register("block_e_magic_mine",
             () -> new BlockItem(BlockRegistry.blockEMagicMine.get(), new Item.Properties().group(ModGroup.elementsofharmonyGroup)));
+    // Register Six Blocks
 
+    // Sep -------------------------------------------------------------------------------------------------------------
+
+    public static RegistryObject<Item> itemELoyaltyIngot = ITEMS.register("item_e_loyalty_ingot", ItemELoyaltyIngot::new);
+    public static RegistryObject<Item> itemELaughterIngot = ITEMS.register("item_e_laughter_ingot", ItemELaughterIngot::new);
+    public static RegistryObject<Item> itemEGenerosityIngot = ITEMS.register("item_e_generosity_ingot", ItemEGenerosityIngot::new);
+    public static RegistryObject<Item> itemEHonestyIngot = ITEMS.register("item_e_honesty_ingot", ItemEHonestyIngot::new);
+    public static RegistryObject<Item> itemEKindnessIngot = ITEMS.register("item_e_kindness_ingot", ItemEKindnessIngot::new);
+    public static RegistryObject<Item> itemEMagicIngot = ITEMS.register("item_e_magic_ingot", ItemEMagicIngot::new);
 }
