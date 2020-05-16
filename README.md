@@ -47,6 +47,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 ---
 Developers:  
 - [Andy K Sparklight](https://github.com/Andy-K-Sparklight) known as *Andy* in [**XUOGROUP**](https://www.xuogroup.top).  
+We know the importance of updating, so we promise: **As long as it's here, we will be updating it.**  
 
 ---
 That's the end, thank you for reading this document!  
