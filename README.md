@@ -2,7 +2,7 @@
 ![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![API](https://img.shields.io/badge/API-Forge%20MOD%20Loader-orange.svg)
 ![Language](https://img.shields.io/badge/Lauguage-Java-0bbbff.svg)
-[![其他语言](https://img.shields.io/badge/此文档提供-简体中文-red.svg)](README_CN.md)  
+[![其他语言](https://img.shields.io/badge/此文档提供-简体中文版本-red.svg)](README_CN.md)  
 This is a **Minecraft MOD**.  
 With adding six elements to Minecraft, you can use them to build **more powerful** tools or weapons.  
 These elements can be find in the form of **minerals**, **smelt** them to get other form of these elements.  
