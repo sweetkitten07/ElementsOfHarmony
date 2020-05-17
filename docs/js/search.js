@@ -452,6 +452,7 @@ var BaiduSearch;
   'use strict';
 
   /**
+   * TODO
    * Search by Baidu Search API
    * @param options : (object)
    */
