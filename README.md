@@ -13,11 +13,11 @@ Is this the end? Or **just a beginning**?
 ![Elements Of Harmony](./eoh.png)
 
 ---
-Okay, and that's the whole absurd story. Anyway, we just want to develop a mod related with **My Little Pony(R)**. (For the author, me, is a **brony**, obviously)  
+Okay, and that's the whole absurd story. Anyway, we just want to develop a mod related with **My Little Pony**. (For the author, me, is a **brony**, obviously)  
 
 This MOD is **still developing** and is compatible with **Minecraft 1.15.2 (Java Edition)** and **Forge 31.1.0** when developing.  
 
-If you are looking for another MOD related with **My Little Pony(R)**, try these two:
+If you are looking for another MOD related with **My Little Pony**, try these two:
 - [Mine Little Pony](https://github.com/MineLittlePony/MineLittlePony) by [Mine Little Pony](https://github.com/MineLittlePony), a **Fabric MOD**. (I tried it, really **Superduper AWESOME**!)
 - [Love and Tolerance](https://github.com/Love-and-Tolerance/Love-and-Tolerance) by [Love and Tolerance](https://github.com/Love-and-Tolerance), a **material package**. (**Also pretty!**)
 
@@ -54,4 +54,7 @@ That's the end, thank you for reading this document!
 You are welcome to submit an **Issue** or **Pull Request** against this repo on **GitHub**.  
 
 ---
-*My Little Pony(R)* is the (registered) trademark of *Hasbro Inc.*.  
+
+(C) Minecraft: Mojang AB.
+(C) My Little Pony: Hasbro Inc.
+*My Little Pony(R)* and *Friendship Is Magic(TM)* is the (registered) trademark of *Hasbro Inc.*.  
