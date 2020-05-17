@@ -18,9 +18,9 @@ version="0.9.0-alpha" #mandatory
  # A display name for the mod
 displayName="Elements of Harmony" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
-#updateJSONURL="" #optional
+updateJSONURL="https://eoh.xuogroup.top/interface/mod.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
-#displayURL="" #optional
+displayURL="https://eoh.xuogroup.top" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="e_logo.png" #optional
 # A text field displayed in the mod UI
