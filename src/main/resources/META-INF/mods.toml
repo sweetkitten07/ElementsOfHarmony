@@ -29,16 +29,7 @@ credits="Hasbro Studios, XUOGROUP-Twily" #optional
 authors="XUOGROUP" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-As we all known, there are six elements which make the whole world full of harmony.
-
-They are: Loyalty, Laughter, Generosity, Honesty, Kindness, and Magic.
-
-In Minecraft World, there are also these elements.
-Go, go now, and find them!
-
-
-This idea comes from My Little Pony(R), which copyright belongs to Hasbro Studios.
-For non-commercial use only!
+To bring six elements of harmony into minecraft.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.elementsofharmony]] #optional
