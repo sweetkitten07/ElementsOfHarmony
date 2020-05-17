@@ -24,7 +24,7 @@ displayName="Elements of Harmony" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="e_logo.png" #optional
 # A text field displayed in the mod UI
-credits="Hasbro Studios, XUOGROUP-Twily" #optional
+credits="Hasbro Inc., XUOGROUP, FML developers" #optional
 # A text field displayed in the mod UI
 authors="XUOGROUP" #optional
 # The description text for the mod (multi line!) (#mandatory)
