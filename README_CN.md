@@ -48,4 +48,7 @@
 我们珍惜每个人的意见，如果您发现问题或者有改进计划，请不吝提出**Issue**或**Pull Request**。    
 
 ---
-*My Little Pony(R)* 是**美国孩之宝公司**的商标或注册商标。  
+
+(C) Minecraft: Mojang AB.
+(C) My Little Pony: Hasbro Inc.
+*My Little Pony(R)* 和 *Friendship Is Magic(TM)*是**美国孩之宝公司**的商标或注册商标。  
