@@ -55,6 +55,6 @@ You are welcome to submit an **Issue** or **Pull Request** against this repo on 
 
 ---
 
-(C) Minecraft: Mojang AB.
-(C) My Little Pony: Hasbro Inc.
+(C) Minecraft: Mojang AB.  
+(C) My Little Pony: Hasbro Inc.  
 *My Little Pony(R)* and *Friendship Is Magic(TM)* is the (registered) trademark of *Hasbro Inc.*.  
