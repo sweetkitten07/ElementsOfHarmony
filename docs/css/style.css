@@ -17,14 +17,14 @@
   box-shadow: 0 2px 4px 0px rgba(0,0,0,0.1), 0 4px 8px 0px rgba(0,0,0,0.1), 0 8px 16px 0px rgba(0,0,0,0.1);
 }
 @font-face {
-  font-family: 'NotoSansHans-Light';
-  src: url("https://assets0.xuogroup.top/eqx/NotoSansHans-Light.otf");
+  font-family: 'UbuntuMono';
+  src: url("https://cdn.jsdelivr.net/gh/xaoxuu/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
 @font-face {
-  font-family: 'NotoSansHans-DemiLight';
-  src: url("https://assets0.xuogroup.top/eqx/NotoSansHans-DemiLight.otf");
+  font-family: 'Varela Round';
+  src: url("https://cdn.jsdelivr.net/gh/xaoxuu/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
@@ -49,12 +49,12 @@ html >::-webkit-scrollbar-track-piece {
   background: transparent;
 }
 html >::-webkit-scrollbar-thumb {
-  background: #d796f0;
+  background: #2196f3;
   cursor: pointer;
   border-radius: 2px;
 }
 html >::-webkit-scrollbar-thumb:hover {
-  background: #5d2391;
+  background: #ff5722;
 }
 body {
   background-color: #f4f4f4;

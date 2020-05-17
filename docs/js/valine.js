@@ -1331,7 +1331,7 @@
                 if (!1 === s) {
                     if ("<" === f) {
                         s = c;
-
+                        continue
                     }
                 } else if (!1 === l) {
                     if ("<" === f) {
@@ -1351,11 +1351,11 @@
                     }
                     if (('"' === f || "'" === f) && "=" === e.charAt(c - 1)) {
                         l = f;
-
+                        continue
                     }
                 } else if (f === l) {
                     l = !1;
-
+                    continue
                 }
             }
             return a < e.length && (i += n(e.substr(a))),
@@ -1394,7 +1394,7 @@
                                 n(i, f),
                                 i = !1,
                                 r = c + 1;
-
+                                continue
                             }
                         } else
                             ;
@@ -2271,7 +2271,7 @@
                         });
                     else if (-1 !== a.type.indexOf("image")) {
                         n.push(a.getAsFile());
-
+                        continue
                     }
                 }
                 N(n)
@@ -4050,7 +4050,7 @@ object-assign
             try {
                 if (!Object.assign)
                     return !1;
-                var e = String("abc");
+                var e = new String("abc");
                 if (e[5] = "de",
                 "5" === Object.getOwnPropertyNames(e)[0])
                     return !1;
