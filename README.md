@@ -54,4 +54,4 @@ That's the end, thank you for reading this document!
 You are welcome to submit an **Issue** or **Pull Request** against this repo on **GitHub**.  
 
 ---
-*My Little Pony(R)* is the (registered) trademark of *Hasbro Studios*.  
+*My Little Pony(R)* is the (registered) trademark of *Hasbro Inc.*.  
