@@ -3120,7 +3120,7 @@ footer p {
   font-size: 0.8125rem;
 }
 footer .licenses {
-  color: fade(50%);
+  color: fade(, 50%);
   text-decoration: underline;
 }
 footer .codename {
