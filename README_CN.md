@@ -49,6 +49,6 @@
 
 ---
 
-(C) Minecraft: Mojang AB.
-(C) My Little Pony: Hasbro Inc.
+(C) Minecraft: Mojang AB.  
+(C) My Little Pony: Hasbro Inc.  
 *My Little Pony(R)* 和 *Friendship Is Magic(TM)*是**美国孩之宝公司**的商标或注册商标。  
