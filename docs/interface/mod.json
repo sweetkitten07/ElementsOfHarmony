@@ -1,1 +1,9 @@
-{"homepage":"https://eoh.xuogroup.top","1.15.2":{"0.9.0-alpha":"The first release, not fully-featured."},"promos":{"1.15.2-latest":"0.9.0-alpha","1.15.2-recommended":"0.9.0-alpha"}}
+{"homepage":"https://eoh.xuogroup.top",
+  "1.15.2":{
+    "0.9.0-alpha":"The first release, not fully-featured."
+  },
+  "promos":{
+    "1.15.2-latest":"0.9.0-alpha",
+    "1.15.2-recommended":"0.9.0-alpha"
+  }
+}
