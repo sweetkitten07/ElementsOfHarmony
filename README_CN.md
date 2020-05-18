@@ -1,4 +1,7 @@
-# 和谐之元
+
+![和谐之元](eoh_text.png)  
+
+---
 ![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![API接口](https://img.shields.io/badge/API接口-Forge模组加载器-orange.svg)
 ![语言](https://img.shields.io/badge/开发语言-Java-0bbbff.svg)
