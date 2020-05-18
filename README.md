@@ -1,4 +1,6 @@
-# Elements of Harmony
+![Elements of Harmony](eoh_text.png)  
+
+---
 ![Java CI with Gradle](https://github.com/XUOGROUP/ElementsOfHarmony/workflows/Java%20CI%20with%20Gradle/badge.svg)
 ![API](https://img.shields.io/badge/API-Forge%20MOD%20Loader-orange.svg)
 ![Language](https://img.shields.io/badge/Lauguage-Java-0bbbff.svg)
