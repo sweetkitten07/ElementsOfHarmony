@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bcb",
+    "cic",
+    "bcb"
+  ],
+  "key": {
+    "i": {
+      "item": "elementsofharmony:item_e_honesty_ingot"
+    },
+    "b": {
+      "item": "minecraft:bone_meal"
+    },
+    "c": {
+      "item": "minecraft:orange_dye"
+    }
+  },
+  "result": {
+    "item": "elementsofharmony:item_e_honesty_gem",
+    "count": 1
+  }
+}
