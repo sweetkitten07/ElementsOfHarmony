@@ -12,7 +12,6 @@ There can **never** be too many elements, if you own enough of them, you can eve
 These elements can hurt mobs **effectively**. You will never fear of mobs after today!  
 At last, find **The Tree of Harmony**, to learn about why, you, Steve or Alex, are here, in this world...  
 Is this the end? Or **just a beginning**?  
-![Elements Of Harmony](./eoh.png)
 
 ---
 Okay, and that's the whole absurd story. Anyway, we just want to develop a mod related with **My Little Pony**. (For the author, me, is a **brony**, obviously)  
