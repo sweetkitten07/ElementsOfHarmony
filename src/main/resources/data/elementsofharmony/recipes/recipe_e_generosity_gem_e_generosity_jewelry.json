@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " o ",
+    "ogo",
+    " o "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "o": {
+      "item": "elementsofharmony:item_e_generosity_gem"
+    }
+  },
+  "result": {
+    "item": "elementsofharmony:item_e_generosity_jewelry",
+    "count": 1
+  }
+}
