@@ -1,21 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+    <title>Welcome!</title>
+    <url>/welcome/</url>
+    <content><![CDATA[<p>Hi there!</p>
+<p>If this is your first time to this website, read this page to learn about <strong>Elements of Harmony</strong> and us, <strong>XUOGROUP</strong>.</p>
+<p>If not, just continue your reading, have a nice day!</p>
+<a id="more"></a>
 
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+<p>Hello for your visiting this instruction page. This is <em>Andy-K-Sparklight</em> speaking.</p>
+<p>You may feel strange about my avatar, that’s because…</p>
+<blockquote>
+<p>Andy has a crush on Rainbow Dash!</p>
+</blockquote>
+<p>Nope, not at all.</p>
+<p>(That must be Fish Chan)</p>
+<hr>
+<p><strong>Elements of Harmony</strong>, just like it’s name, is a <strong>Minecraft MOD</strong>, and, obviously, is inspired of <em>My Little Pony: Friendship Is Magic</em>.</p>
+<p>This MOD, which is build with <strong>Forge API</strong>, inserts six <em>Elements of Harmony</em> into Minecraft. These elements are:</p>
+<ul>
+<li>Loyalty</li>
+<li>Laughter</li>
+<li>Generosity</li>
+<li>Honesty</li>
+<li>Kindness</li>
+<li>Magic</li>
+</ul>
+<p>(They are arranged in the order in <em>My Little Pony Theme Song</em>)</p>
+<p>All we want to do is to make Minecraft as close as possible to Equestria, and Elements of Harmony is an essential part. It includes:</p>
+<ul>
+<li><strong>Six Elements</strong>, including their various forms.</li>
+<li><strong>Advancements</strong> of your life in Minecraft. (Not Featured)</li>
+<li><strong>A (or more) Dimension(s)</strong> for Equestria. (Not Featured)</li>
+<li><strong>Basic Support</strong> for further development. (Not Featured)</li>
+</ul>
+<p>Yes, we’re still in progress, you can <em>Watch</em>, <em>Star</em> our repo on <a href="https://github.com/XUOGROUP/ElementsOfHarmony/" target="_blank" rel="noopener"><strong>GitHub</strong></a>.</p>
+<p>Feel free to open an <strong>Issue</strong> or a <strong>Pull Request</strong>!</p>
+<hr>
+<p>About us:</p>
+<p><a href="https://github.com/XUOGRUOP/" target="_blank" rel="noopener"><strong>XUOGROUP</strong></a> has following members now (still appending):</p>
+<ul>
+<li><a href="https://github.com/Andy-K-Sparklight/" target="_blank" rel="noopener">Andy K Sparklight</a> (AG), the leader and the main author &amp; developer.</li>
+<li><a href="https://github.com/WFLS-Peter/" target="_blank" rel="noopener">Fish Chan</a>(CSY), the supporter.</li>
+<li><a href="https://github.com/K-Twily" target="_blank" rel="noopener">K Twily</a>, a cute child who always has some questions.</li>
+</ul>
+<p>Want to join or help? Mail to us:</p>
+<ul>
+<li><a href="mailto:Twilight_Princess_Sparkle@outlook.com">Private Inbox</a></li>
+<li><a href="mailto:xuogroup@dingtalk.com">Public Inbox</a></li>
+</ul>
+<p>OK, that’s all, thank you for reading!</p>
 ]]></content>
   </entry>
 </search>

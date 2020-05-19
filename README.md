@@ -29,6 +29,13 @@ Runtime environment:
 - Minecraft 1.15.2 (Java Edition), with Forge 31.1.0.
 
 ---
+Languages:  
+- This MOD Supports English.
+- 此模组支持简体中文。
+- 此模組支持繁體中文。
+- Ĉi Tiu Modulo Subtenas Esperanto.
+
+---
 License:  
 This MOD is distributed with the **GNU General Public License(Version 3.0)**.  
 

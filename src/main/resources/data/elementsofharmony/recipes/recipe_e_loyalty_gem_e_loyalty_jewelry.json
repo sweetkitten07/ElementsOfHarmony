@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " go",
+    "oo ",
+    "o  "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_nugget"
+    },
+    "o": {
+      "item": "elementsofharmony:item_e_loyalty_gem"
+    }
+  },
+  "result": {
+    "item": "elementsofharmony:item_e_loyalty_jewelry",
+    "count": 1
+  }
+}
