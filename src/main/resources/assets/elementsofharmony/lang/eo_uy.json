@@ -19,6 +19,13 @@
   "item.elementsofharmony.item_e_honesty_ingot": "Harmonia Ingoto-Honesta",
   "item.elementsofharmony.item_e_kindness_ingot": "Harmonia Ingoto-Boneco",
   "item.elementsofharmony.item_e_magic_ingot": "Harmonia Ingoto-Magio",
+
+  "item.elementsofharmony.item_e_loyalty_jewelry": "[Rafinita]Harmonia Gemo-Fideleco",
+  "item.elementsofharmony.item_e_laughter_jewelry": "[Rafinita]Harmonia Gemo-Rido",
+  "item.elementsofharmony.item_e_generosity_jewelry": "[Rafinita]Harmonia Gemo-Malavara",
+  "item.elementsofharmony.item_e_honesty_jewelry": "[Rafinita]Harmonia Gemo-Honesta",
+  "item.elementsofharmony.item_e_kindness_jewelry": "[Rafinita]Harmonia Gemo-Boneco",
+  "item.elementsofharmony.item_e_magic_jewelry": "[Rafinita]Harmonia Gemo-Magio",
   
   "itemGroup.elementsofharmony_group": "Harmonia Yuan"
 }

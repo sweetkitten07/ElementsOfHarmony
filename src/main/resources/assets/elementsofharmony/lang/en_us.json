@@ -20,5 +20,12 @@
   "item.elementsofharmony.item_e_kindness_ingot": "Harmony Ingot of Kindness",
   "item.elementsofharmony.item_e_magic_ingot": "Harmony Ingot of Magic",
 
+  "item.elementsofharmony.item_e_loyalty_jewelry": "[Refined]Harmony Jewelry of Loyalty",
+  "item.elementsofharmony.item_e_laughter_jewelry": "[Refined]Harmony Jewelry of Laughter",
+  "item.elementsofharmony.item_e_generosity_jewelry": "[Refined]Harmony Jewelry of Generosity",
+  "item.elementsofharmony.item_e_honesty_jewelry": "[Refined]Harmony Jewelry of Honesty",
+  "item.elementsofharmony.item_e_kindness_jewelry": "[Refined]Harmony Jewelry of Kindness",
+  "item.elementsofharmony.item_e_magic_jewelry": "[Refined]Harmony Jewelry of Magic",
+
   "itemGroup.elementsofharmony_group": "Elements of Harmony"
 }
