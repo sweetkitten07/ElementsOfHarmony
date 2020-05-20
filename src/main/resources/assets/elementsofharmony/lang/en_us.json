@@ -27,5 +27,12 @@
   "item.elementsofharmony.item_e_kindness_jewelry": "[Refined]Harmony Jewelry of Kindness",
   "item.elementsofharmony.item_e_magic_jewelry": "[Refined]Harmony Jewelry of Magic",
 
+  "item.elementsofharmony.item_e_loyalty_sword": "Harmony Defender of Loyalty",
+  "item.elementsofharmony.item_e_laughter_sword": "Harmony Defender of Laughter",
+  "item.elementsofharmony.item_e_generosity_sword": "Harmony Defender of Generosity",
+  "item.elementsofharmony.item_e_honesty_sword": "Harmony Defender of Honesty",
+  "item.elementsofharmony.item_e_kindness_sword": "Harmony Defender of Kindness",
+  "item.elementsofharmony.item_e_magic_sword": "Harmony Defender of Magic",
+
   "itemGroup.elementsofharmony_group": "Elements of Harmony"
 }

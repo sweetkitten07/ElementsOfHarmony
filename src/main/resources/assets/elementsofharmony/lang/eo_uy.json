@@ -26,6 +26,13 @@
   "item.elementsofharmony.item_e_honesty_jewelry": "[Rafinita]Harmonia Gemo-Honesta",
   "item.elementsofharmony.item_e_kindness_jewelry": "[Rafinita]Harmonia Gemo-Boneco",
   "item.elementsofharmony.item_e_magic_jewelry": "[Rafinita]Harmonia Gemo-Magio",
+
+  "item.elementsofharmony.item_e_loyalty_sword": "Harmonia Defendanto-Fideleco",
+  "item.elementsofharmony.item_e_laughter_sword": "Harmonia Defendanto-Rido",
+  "item.elementsofharmony.item_e_generosity_sword": "Harmonia Defendanto-Malavara",
+  "item.elementsofharmony.item_e_honesty_sword": "Harmonia Defendanto-Honesta",
+  "item.elementsofharmony.item_e_kindness_sword": "Harmonia Defendanto-Boneco",
+  "item.elementsofharmony.item_e_magic_sword": "Harmonia Defendanto-Magio",
   
   "itemGroup.elementsofharmony_group": "Harmonia Yuan"
 }
