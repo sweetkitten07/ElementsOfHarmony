@@ -38,6 +38,6 @@ public class ItemEHonestySword extends SwordItem {
         }
     };
     public ItemEHonestySword(){
-        super(iItemTier, 3, -0.0F, new Item.Properties().group(ModGroup.elementsofharmonyGroup));
+        super(iItemTier, 3, -2.0F, new Item.Properties().group(ModGroup.elementsofharmonyGroup));
     }
 }

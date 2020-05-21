@@ -37,6 +37,6 @@ public class ItemEKindnessSword extends SwordItem {
         }
     };
     public ItemEKindnessSword(){
-        super(iItemTier, 3, -0.0F, new Properties().group(ModGroup.elementsofharmonyGroup));
+        super(iItemTier, 3, -2.0F, new Properties().group(ModGroup.elementsofharmonyGroup));
     }
 }
