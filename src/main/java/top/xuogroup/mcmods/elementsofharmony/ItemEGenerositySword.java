@@ -34,7 +34,7 @@ public class ItemEGenerositySword extends SwordItem {
 
         @Override
         public Ingredient getRepairMaterial() {
-            return Ingredient.fromItems(ItemRegistry.itemELoyaltyGem.get());
+            return Ingredient.fromItems(ItemRegistry.itemEGenerosityGem.get());
         }
     };
 

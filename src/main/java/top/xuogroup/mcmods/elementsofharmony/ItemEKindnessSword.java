@@ -33,7 +33,7 @@ public class ItemEKindnessSword extends SwordItem {
 
         @Override
         public Ingredient getRepairMaterial() {
-            return Ingredient.fromItems(ItemRegistry.itemELoyaltyGem.get());
+            return Ingredient.fromItems(ItemRegistry.itemEKindnessGem.get());
         }
     };
     public ItemEKindnessSword(){
