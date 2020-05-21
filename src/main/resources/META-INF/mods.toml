@@ -29,7 +29,7 @@ credits="Hasbro Inc., XUOGROUP, FML developers" #optional
 authors="XUOGROUP" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-To bring six elements of harmony into minecraft.
+Bring six elements of harmony into minecraft. Go and find them!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.elementsofharmony]] #optional
