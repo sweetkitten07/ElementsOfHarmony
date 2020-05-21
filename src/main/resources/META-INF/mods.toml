@@ -14,7 +14,7 @@ loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft versio
 # The modid of the mod
 modId="elementsofharmony" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
-version="0.9.0-alpha" #mandatory
+version="0.9.0-beta" #mandatory
  # A display name for the mod
 displayName="Elements of Harmony" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification <here>
@@ -29,7 +29,7 @@ credits="Hasbro Inc., XUOGROUP, FML developers" #optional
 authors="XUOGROUP" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-To bring six elements of harmony into minecraft.
+Bring six elements of harmony into minecraft. Go and find them!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.elementsofharmony]] #optional

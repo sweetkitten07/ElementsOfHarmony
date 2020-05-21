@@ -20,12 +20,19 @@
   "item.elementsofharmony.item_e_kindness_ingot": "Harmonia Ingoto-Boneco",
   "item.elementsofharmony.item_e_magic_ingot": "Harmonia Ingoto-Magio",
 
-  "item.elementsofharmony.item_e_loyalty_jewelry": "[Rafinita]Harmonia Gemo-Fideleco",
-  "item.elementsofharmony.item_e_laughter_jewelry": "[Rafinita]Harmonia Gemo-Rido",
-  "item.elementsofharmony.item_e_generosity_jewelry": "[Rafinita]Harmonia Gemo-Malavara",
-  "item.elementsofharmony.item_e_honesty_jewelry": "[Rafinita]Harmonia Gemo-Honesta",
-  "item.elementsofharmony.item_e_kindness_jewelry": "[Rafinita]Harmonia Gemo-Boneco",
-  "item.elementsofharmony.item_e_magic_jewelry": "[Rafinita]Harmonia Gemo-Magio",
+  "item.elementsofharmony.item_e_loyalty_jewelry": "Harmonia Juveloj-Fideleco",
+  "item.elementsofharmony.item_e_laughter_jewelry": "Harmonia Juveloj-Rido",
+  "item.elementsofharmony.item_e_generosity_jewelry": "Harmonia Juveloj-Malavara",
+  "item.elementsofharmony.item_e_honesty_jewelry": "Harmonia Juveloj-Honesta",
+  "item.elementsofharmony.item_e_kindness_jewelry": "Harmonia Juveloj-Boneco",
+  "item.elementsofharmony.item_e_magic_jewelry": "Harmonia Juveloj-Magio",
+
+  "item.elementsofharmony.item_e_loyalty_sword": "Harmonia Defendanto-Fideleco",
+  "item.elementsofharmony.item_e_laughter_sword": "Harmonia Defendanto-Rido",
+  "item.elementsofharmony.item_e_generosity_sword": "Harmonia Defendanto-Malavara",
+  "item.elementsofharmony.item_e_honesty_sword": "Harmonia Defendanto-Honesta",
+  "item.elementsofharmony.item_e_kindness_sword": "Harmonia Defendanto-Boneco",
+  "item.elementsofharmony.item_e_magic_sword": "Harmonia Defendanto-Magio",
   
   "itemGroup.elementsofharmony_group": "Harmonia Yuan"
 }
