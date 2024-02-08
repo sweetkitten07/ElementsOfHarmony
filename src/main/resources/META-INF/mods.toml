@@ -47,6 +47,6 @@ Bring six elements of harmony into minecraft. Go and find them!
 [[dependencies.elementsofharmony]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.15.2]"
+    versionRange="[1.15.2,1.21]"
     ordering="NONE"
     side="BOTH"
